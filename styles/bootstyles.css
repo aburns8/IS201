@@ -1,0 +1,45 @@
+body {
+    background-image: url('../images/background2.jpg');
+    resize: both;
+    overflow: auto;
+    color: white;
+    border-color: whitesmoke;
+    text-align: center;
+    border-style: double;
+    font-size: large;
+}
+
+.common {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    padding-bottom: 3%;
+    font-size: xx-large;
+}
+
+section {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.head {
+    font-size: xx-large;
+    resize: both;
+    overflow: auto;
+    color: black;
+}
+
+.footer {
+    resize: both;
+    overflow: auto;
+    font-weight: bold;
+    color: white;
+}
+
+ul{
+    color: white;
+    font-weight: bold;
+}
+
+a{
+    color: hotpink;
+}
